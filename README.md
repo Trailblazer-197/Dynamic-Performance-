@@ -1,9 +1,8 @@
-# Dynamic-Performance-
-An advanced Minecraft server optimization plugin for 1.21.x that enhances performance, reduces lag, and maximizes efficiency with automatic and manual controls.
 # Dynamic PERFORMANCE+
+[![Download on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/plugin/dynamic-performance+)
 
 ## Overview
-[Dynamic PERFORMANCE+](https://modrinth.com/plugin/dynamic-performance+) is a powerful and advanced Minecraft server optimization plugin tailored for Minecraft version 1.21.x. It is designed to significantly enhance server performance by reducing lag, optimizing resource usage, and maintaining smooth gameplay without sacrificing core mechanics like falling blocks.
+Dynamic PERFORMANCE+ is a powerful and advanced Minecraft server optimization plugin tailored for Minecraft version 1.21.x. It is designed to significantly enhance server performance by reducing lag, optimizing resource usage, and maintaining smooth gameplay without sacrificing core mechanics like falling blocks.
 
 ## Key Features
 - Asynchronous processing to offload heavy server tasks and reduce main-thread lag
